@@ -1,0 +1,21 @@
+// Questão 03 - Escreva um algoritmo estruturado que gere os números de 1000 a 1999 e escreva somente os números que são 
+// divisíveis por 11 e cujo resto é 5
+
+package questao03;
+
+import java.util.Scanner;
+
+public class Questao03 {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		System.out.println("Números entre '1000 a 1999' que são divisíveis por 11 e o resto é 5: ");
+		for (int i=1000; i < 2000; i++){
+		    if (i%11==5) {
+		        System.out.println(i);
+		    }
+		}
+
+	}
+
+}

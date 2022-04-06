@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\Liliana\Documents\faculdade\logica de programação\exercicio\Lista002\.metadata\.plugins\org.eclipse.jdt.core
+3501551864.index
+3621303521.index
+1322378587.index
+970380749.index
+2813476974.index
+1237066050.index
+1865797976.index
